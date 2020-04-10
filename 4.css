@@ -1,0 +1,12 @@
+table{
+border:solid brown;
+width:700px;height:600px;
+margin:50px 100px 100px 400px;
+opacity:0.7;
+}
+#th1{color:red;background:white;}
+#th2{color:blue;background:grey;}
+#th3{color:green;background:red;}
+#th4{color:RED;background:BLUE;}
+td{background-color:yellow;}
+body{background-image:url("3P1.jpg");}

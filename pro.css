@@ -1,0 +1,11 @@
+.p1{text-align:right}
+.Container{
+        display:grid;
+        background-image:url("p3.jpg");
+        height:150px;
+        justify-content:space-evenly;
+        
+}
+.Item1{color:red;text-decoration: underline; text-shadow: 2px 2px;font-size: 50px;}
+body{background-image:url("p6.png");}
+

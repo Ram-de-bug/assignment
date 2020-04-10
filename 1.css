@@ -1,0 +1,7 @@
+body{background-image:url("2P1.jpg");}
+h3{text-align:center;color:blue;}
+form{
+color:yellow;
+border:solid red 3px;height:500px; width:400px;}
+textarea{border:dotted green 5px;
+height:100px; width:300px; }
